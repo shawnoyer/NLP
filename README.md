@@ -1,5 +1,5 @@
 # NLP
-Sentiment Analysis for Drug Effectiveness, Satisfaction and Side Effects Using Natural Language Processing (NLP) and Deep Learning Methods. Project completed for DSCI 691 Natural Language Processing with Deep Learning on 6/12/2024.
+Sentiment Analysis for Drug Effectiveness, Satisfaction and Side Effects Using Natural Language Processing (NLP) and Deep Learning Methods. Project completed for DSCI 691 Natural Language Processing with Deep Learning on 6/12/2024 at Drexel University.
 
 Abstract: 
 
